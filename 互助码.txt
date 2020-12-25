@@ -1,23 +1,23 @@
 种豆提交互助码api
-http://api.turinglabs.net/api/v1/jd/bean/create/73qwpzbx4mgajmucs65vsdvscaakk7n7w35ivjy/
+http://api.turinglabs.net/api/v1/jd/bean/create/e7lhibzb3zek3nbz6tvpcl7a4bo4mvhnnhnl33y/
 查看上车人数
 http://api.turinglabs.net/api/v1/jd/bean/count/
 
 农场提交互助码api
-http://api.turinglabs.net/api/v1/jd/farm/create/e2e5e1be41dd42a3b5f1351f5ede6842/
+http://api.turinglabs.net/api/v1/jd/farm/create/38a528fd7be1461d9d15578fb7b93f86/
 查看上车人数
 http://api.turinglabs.net/api/v1/jd/farm/count/
 
 萌宠提交互助码api
-http://api.turinglabs.net/api/v1/jd/pet/create/MTE1NDQ5OTIwMDAwMDAwMzkzODIxNjc=/
+http://api.turinglabs.net/api/v1/jd/pet/create/MTAxODcxOTI2NTAwMDAwMDAzMTI5MzIxNQ==/
 查看上车人数
 http://api.turinglabs.net/api/v1/jd/pet/count/
 
 京喜工厂 
-http://api.turinglabs.net/api/v1/jd/jxfactory/create/-NleQwfy3EBCb28rb4we-w==
+http://api.turinglabs.net/api/v1/jd/jxfactory/create/lmBdVBt1C7K1qxejKWRfaQ==
 
 东东工厂
-http://api.turinglabs.net/api/v1/jd/ddfactory/create/P04z54XCjVWnYaS5nQMD2n51XtXl6HxWCE_/
+http://api.turinglabs.net/api/v1/jd/ddfactory/create/P04z54XCjVWnYaS5m9cZ2T5jnxNkpSecPwwgP8/
 
 查看数据库清空时间
 http://api.turinglabs.net/api/v1/jd/cleantimeinfo/
