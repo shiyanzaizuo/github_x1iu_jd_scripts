@@ -5,7 +5,7 @@
  * - 挂机
  * - 购买、合并joy
  */
-name: jd_bean_sign
+name: jd_crazy完善
 
 on:
   workflow_dispatch:
