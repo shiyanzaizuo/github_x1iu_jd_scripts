@@ -1,7 +1,0 @@
-## jd_crazy.yml
-name: 'jd_crazy'
- 
-on:
-  push:
-  schedule:
-    - cron: '10 * * * *'
