@@ -20,7 +20,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          repository: shiyanzaizuo/github_x1iu_jd_scripts
+          repository: shiyanzaizuo
           ref: 'master'        
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
